@@ -25,6 +25,6 @@ Styled with CSS Flexbox
 💻 How to Use
 
 Clone or download the project:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/preetijadhavpace/My-To-Do-List.git
 
 Double-click index.html or open it with a browser.
